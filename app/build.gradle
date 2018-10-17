@@ -1,0 +1,59 @@
+apply plugin: 'com.android.application'
+//apply plugin: 'com.google.protobuf'
+
+android {
+    compileSdkVersion 26
+    buildToolsVersion "27.0.3"
+
+    defaultConfig {
+        minSdkVersion 18
+        applicationId "com.android.launcher3"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+
+//    sourceSets {
+//        main {
+//            proto {
+//                srcDir 'src/main/proto'
+//                include '**/*.proto'
+//            }
+//            java {
+//                srcDir 'src/main/java'
+//            }
+//        }
+//    }
+
+}
+/*protobuf {
+    protoc {
+        artifact = 'com.google.protobuf:protoc:3.1.0'
+    }
+
+    generateProtoTasks {
+        all().each { task ->
+            task.builtins {
+                remove java
+            }
+            task.builtins {
+                java {}
+//                 Add cpp output without any option.
+                 DO NOT omit the braces if you want this builtin to be added.
+                cpp {}
+            }
+        }
+    }
+
+    generatedFilesBaseDir = "$projectDir/src/generated"
+}*/
+
+dependencies {
+    compile 'com.google.protobuf:protobuf-java:3.1.0'
+    compile 'com.google.protobuf:protoc:3.1.0'
+    implementation files('libs/classes-jarjar.jar')
+}

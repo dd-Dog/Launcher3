@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="home">"ଘର"</string>
+<string name="uid_name">"ଆଣ୍ଡ୍ରଏଡ଼ କୋର୍‌ ଆପ୍‌ଗୁଡିକ"</string>
+<string name="wallpaper_instructions">"ୱାଲପେପର ସ୍ଥାପନା କରନ୍ତୁ"</string>
+<plurals name="number_of_items_selected">
+<item quantity="zero">"%1$d ଚୟନ ହୋଇଛି"</item>
+<item quantity="one">"%1$d ଚୟନ ହୋଇଛି"</item>
+<item quantity="other">"%1$d ଚୟନ ହୋଇଛି"</item>
+</plurals>
+<string name="wallpaper_accessibility_name">"%2$dର %1$d ୱାଲପେପର୍"</string>
+<string name="announce_selection">"<xliff:g id="label" example="Wallpaper 3 of 10">%1$s</xliff:g> ଚୟନ ହୋଇଛି"</string>
+<string name="wallpaper_delete">"କାଟ"</string>
+<string name="pick_image">"ଛବି ବାଛନ୍ତୁ"</string>
+<string name="pick_wallpaper">"ୱାଲପେପର୍ ଗୁଡ଼ିକ"</string>
+<string name="crop_wallpaper">"ୱାଲପେପର ଛୋଟ କରନ୍ତୁ"</string>
+<string name="activity_not_found">"ଆପ୍ ଇନଷ୍ଟଲ୍ ହୋଇନାହିଁ ।"</string>
+<string name="widgets_tab_label">"ୱିଜେଟ୍ ଗୁଡ଼ିକ"</string>
+<string name="widget_adder">"ୱିଜେଟ୍ ଗୁଡ଼ିକ"</string>
+<string name="toggle_weight_watcher">"ମେମ୍ ଦର୍ଶାନ୍ତୁ"</string>
+<string name="long_press_widget_to_add">"&amp;amp ଟଚ୍ କରନ୍ତୁ; ଏକ ୱିଜେଟ୍ ଉଠାଇବା ପାଇଁ ଧରନ୍ତୁ ।"</string>
+<string name="market">"ଦୋକାନ"</string>
+<string name="widget_dims_format">"%1$d \u00d7 %2$d"</string>
+<string name="external_drop_widget_error">"ଏହି ମୂଳ ସ୍କ୍ରିନ୍‍ରେ ଆଇଟମ୍‍ ଡ୍ରପ୍‍ କରିପାରିଲା ନାହିଁ ।"</string>
+<string name="external_drop_widget_pick_title">"ସୃଷ୍ଟି କରିବା ନିମନ୍ତେ ୱିଜାର୍ଡ ଚୟନ କରନ୍ତୁ"</string>
+<string name="rename_folder_label">"ଫୋଲ୍‍‍ଡର ନାମ"</string>
+<string name="rename_folder_title">"ଫୋଲ୍‍‍ଡରକୁ ପୁନଃନାମିତ କରନ୍ତୁ"</string>
+<string name="rename_action">"ଠିକଠାକ"</string>
+<string name="cancel_action">"ବାତିଲ କରନ୍ତୁ"</string>
+<string name="menu_item_add_item">"ହୋମ୍ ସ୍କ୍ରିନ୍ ରେ ଯୋଡ଼ନ୍ତୁ"</string>
+<string name="group_applications">"ଆପ୍ ଗୁଡ଼ିକ"</string>
+<string name="group_shortcuts">"ଶୀଘ୍ର-ପହଞ୍ଚ/ସର୍ଟକାଟ ଗୁଡିକ"</string>
+<string name="group_widgets">"ୱିଜେଟ୍ ଗୁଡ଼ିକ"</string>
+<string name="completely_out_of_space">"ଆପଣଙ୍କ ମୂଳ ସ୍କ୍ରିନ୍‍ରେ ଅଧିକ ସ୍ଥାନ ନାହିଁ ।"</string>
+<string name="out_of_space">"ଏହି ହୋମସ୍କ୍ରିନ୍ ରେ ଅଧିକ କୋଠରୀ ନାହିଁ ।"</string>
+<string name="hotseat_out_of_space">"ହଟ୍‍ସିଟ୍‍‍ରେ ଆଉ ଅଧିକ ସ୍ଥାନ ନାହିଁ ।"</string>
+<string name="invalid_hotseat_item">"ହଟ୍‍‍ସିଟ୍‍ ନିମନ୍ତେ ଏହି ୱିଜାର୍ଡ ଅତି ବଡ ଅଟେ ।"</string>
+<string name="shortcut_installed">"ଶର୍ଟକଟ୍‍ \"<xliff:g id="name" example="Browser">%s</xliff:g>\" ସୃଷ୍ଟି ହେଲା ।"</string>
+<string name="shortcut_uninstalled">"ସର୍ଟକଟ୍‍ \"<xliff:g id="name" example="Browser">%s</xliff:g>\" ଅପସାରିତ ହୋଇଥିଲା ।"</string>
+<string name="shortcut_duplicate">"ସର୍ଟକଟ୍‍ \"<xliff:g id="name" example="Browser">%s</xliff:g>\" ପୂର୍ବରୁ ରହିଛି ।"</string>
+<string name="title_select_shortcut">"ସର୍ଟକଟ୍‍ ଚୟନ କରନ୍ତୁ"</string>
+<string name="title_select_application">"ଆପ୍ଲିକେସନ୍‍ ଚୟନ କରନ୍ତୁ"</string>
+<string name="all_apps_button_label">"ଆପ୍ ଗୁଡ଼ିକ"</string>
+<string name="all_apps_home_button_label">"ଘର"</string>
+<string name="delete_zone_label_workspace">"ବାହାର କରି ଦିଅନ୍ତୁ"</string>
+<string name="delete_zone_label_all_apps">"ବିସ୍ଥାପନ"</string>
+<string name="delete_target_label">"ବାହାର କରି ଦିଅନ୍ତୁ"</string>
+<string name="delete_target_uninstall_label">"ବିସ୍ଥାପନ"</string>
+<string name="info_target_label">"ଏପ ତଥ୍ୟ"</string>
+<string name="accessibility_search_button">"ଖୋଜ"</string>
+<string name="accessibility_voice_search_button">"ଧ୍ୱନି ଖୋଜ"</string>
+<string name="accessibility_all_apps_button">"ଆପ୍ ଗୁଡ଼ିକ"</string>
+<string name="accessibility_delete_button">"ବାହାର କରି ଦିଅନ୍ତୁ"</string>
+<string name="delete_zone_label_all_apps_system_app">"ଅପଡେଟ୍ ଅନଇନଷ୍ଟଲ୍ କରନ୍ତୁ"</string>
+<string name="cab_menu_delete_app">"ଆପ୍ ଅନଇନଷ୍ଟଲ୍ କରନ୍ତୁ"</string>
+<string name="cab_menu_app_info">"ଆପ୍ଲିକେସନ୍‍ ସବିଶେଷ ବିବରଣ"</string>
+<string name="cab_app_selection_text">"1 ଆପ୍ଲିକେସନ୍‍ ମନୋନୀତ ହେଲା"</string>
+<string name="cab_widget_selection_text">"1 ୱିଜାର୍ଡ ମନୋନୀତ ହେଲା"</string>
+<string name="cab_folder_selection_text">"1 ଫୋଲ୍‍‍ଡର୍‍ ମନୋନୀତ ହେଲା"</string>
+<string name="cab_shortcut_selection_text">"1 ସର୍ଟକଟ୍‍ ମନୋନୀତ ହେଲା"</string>
+<string name="permlab_install_shortcut">"ଶର୍ଟକଟ୍‍ ସ୍ଥାପନ କରନ୍ତୁ"</string>
+<string name="permdesc_install_shortcut">"ବ୍ୟବହାରକାରୀଙ୍କ ହସ୍ତକ୍ଷେପ ବିନା ଏକ ଆପ୍ କୁ ସର୍ଟକଟ୍ ଯୋଡ଼ିବା ପାଇଁ ଅନୁମତି ଦିଏ ।"</string>
+<string name="permlab_uninstall_shortcut">ଶର୍ଟକାଟ ବିସ୍ଥାପନ କରନ୍ତୁ"</string>
+<string name="permdesc_uninstall_shortcut">"ଉପଭୋକ୍ତା ହସ୍ତକ୍ଷେପ ବିନା ସର୍ଟକଟ୍‍‍ଗୁଡିକ ଅପସାରଣ କରିବା ପାଇଁ ଆପ୍ଲିକେସନ୍‍‍କୁ ଅନୁମତି ଦିଏ ।"</string>
+<string name="permlab_read_settings">"ହୋମ୍ ସେଟିଂସ୍ ଏବଂ ସର୍ଟକଟ୍ ଗୁଡ଼ିକ ପଢ଼ନ୍ତୁ"</string>
+<string name="permdesc_read_settings">"ଆପ୍ କୁ ସେଟିଂସ୍ ପଢ଼ିବା ପାଇଁ ଏବଂ ହୋମ୍ ରେ ସର୍ଟକଟ୍ ଯୋଡ଼ିବା ପାଇଁ ଅନୁମତି ଦିଏ ।"</string>
+<string name="permlab_write_settings">"ହୋମ୍ ସେଟିଂ ଏବଂ ସର୍ଟକଟ୍ ଗୁଡ଼ିକ ଲେଖନ୍ତୁ"</string>
+<string name="permdesc_write_settings">"ଆପ୍ କୁ ହୋମ୍ ରେ ସେଟିଂସ୍ ଏବଂ ସର୍ଟକଟ୍ ଗୁଡ଼ିକ ବଦଳାଇବା ପାଇଁ ଦିଏ ।"</string>
+<string name="gadget_error_text">"ସମସ୍ୟା ଲୋଡ୍ କରୁଥିବା ୱିଜେଟ୍"</string>
+<string name="uninstall_system_app_text">"ଏହା ଏକ ସିଷ୍ଟମ୍ ଆପ୍ ଏବଂ ଅନ୍‍ଇନଷ୍ଟଲ୍ ହୋଇପାରିବ ନାହିଁ ।"</string>
+<string name="dream_name">"ରକେଟ୍‍ ଉନ୍ମୋଚକ"</string>
+<string name="folder_hint_text">"ନାମିତ ହୋଇ ନ ଥିବା ଫୋଲ୍ଡର"</string>
+<string name="workspace_description_format">"ମୂଳ ସ୍କ୍ରିନ୍‍ %1$d"</string>
+<string name="default_scroll_format">"%2$dର %1$d ପୃଷ୍ଠା"</string>
+<string name="workspace_scroll_format">"%2$dର %1$d ହୋମ୍ ସ୍କ୍ରିନ୍"</string>
+<string name="apps_customize_apps_scroll_format">"ଆପ୍ଲିକେସନ୍‍ ପୃଷ୍ଠା %2$d ର %1$d"</string>
+<string name="apps_customize_widgets_scroll_format">"ୱିଜାର୍ଡ ପୃଷ୍ଠା %2$d ର %1$d"</string>
+<string name="first_run_cling_title">"ସ୍ୱାଗତ!"</string>
+<string name="first_run_cling_description">"ନିଜକୁ ମୂଳରେ ରଖନ୍ତୁ ।"</string>
+<string name="first_run_cling_create_screens_hint">"ଆପ୍ଲିକେସନ୍‍ ଓ ଫୋଲ୍‍‍ଡରଗୁଡିକ ପାଇଁ ଅଧିକ ସ୍କିନ୍‍ ସୃଷ୍ଟି କରେ"</string>
+<string name="workspace_cling_title">"ଆପଣଙ୍କ ଖାଲି ସ୍ଥାନ ସଂଗଠିତ କରନ୍ତୁ"</string>
+<string name="workspace_cling_move_item">"ୱାଲ୍‍ ପେପର୍‍, ୱିଜାର୍ଡ ଓ ସେଟିଂଗୁଡିକ ପରିଚାଳନା କରିବା ନିମନ୍ତେ ପୃଷ୍ଠପଟକୁ ସ୍ୱର୍ଶ୍ୱ କରି ଧରିରଖନ୍ତୁ ।"</string>
+<string name="all_apps_cling_title">"କିଛି ଆପ୍ଲିକେସନ୍‍ ଚୟନ କରନ୍ତୁ"</string>
+<string name="all_apps_cling_add_item">"ଆପଣଙ୍କ ମୂଳ ସ୍କ୍ରିନ୍‍‍ରେ ଏକ ଆପ୍ଲିକେସନ୍‍ ଯୋଗ କରିବାକୁ, ସ୍ୱର୍ଶ୍ୱ କରନ୍ତୁ &amp; ଧରି ରଖନ୍ତୁ ।"</string>
+<string name="folder_cling_title">"ଏଠାରେ ଏକ ଫୋଲ୍‍‍ଡର ଅଛି"</string>
+<string name="folder_cling_create_folder">"ଏହିପରି ଗୋଟିଏ ସୃଷ୍ଟି କରିବାକୁ, ଏକ ଆପ୍ଲିକେସନ୍‍‍କୁ ସ୍ୱର୍ଶ୍ୱ କରି ଧରିରଖନ୍ତୁ, ତା\'ପରେ ଅନ୍ୟ ଉପରେ ଏହାକୁ ବୁଲାନ୍ତୁ ।"</string>
+<string name="cling_dismiss">"ଠିକଠାକ"</string>
+<string name="folder_opened">"ଫୋଲ୍ଡର ଖୋଲିଲା, <xliff:g id="width" example="5">%1$d</xliff:g>  <xliff:g id="height" example="3">%2$d</xliff:g> ଦ୍ୱାରା"</string>
+<string name="folder_tap_to_close">"ଫୋଲ୍ଡର ବନ୍ଦ କରିବା ପାଇଁ ଟଚ୍ କରନ୍ତୁ"</string>
+<string name="folder_tap_to_rename">"ପୁଣିଥରେ ନିମକରଣ ସେଭ୍ କରିବା ପାଇଁ ଟଚ୍ କରନ୍ତୁ"</string>
+<string name="folder_closed">"ଫୋଲ୍ଡର ବନ୍ଦ ହୋଇଛି"</string>
+<string name="folder_renamed">"ଫୋଲ୍ଡର <xliff:g id="name" example="Games">%1$s</xliff:g> କୁ ପୁଣିଥରେ ନାମିତ ହେଲା"</string>
+<string name="folder_name_format">"ଫୋଲ୍ଡର: <xliff:g id="name" example="Games">%1$s</xliff:g>"</string>
+<string name="widget_button_text">"ୱିଜେଟ୍ ଗୁଡ଼ିକ"</string>
+<string name="wallpaper_button_text">"ୱାଲପେପର୍ ଗୁଡ଼ିକ"</string>
+<string name="settings_button_text">"ସଂସ୍ଥାପନା"</string>
+<string name="prompt_gallery_disable">"ଗ୍ୟାଲେରୀ ପଦ୍ଧତି ଆରମ୍ଭ ହୋଇନାହିଁ!"</string>
+<string name="prompt_folder_full">"ଫୋଲ୍‍‍ଡର୍‍ ପୂର୍ଣ୍ଣ ହୋଇଛି ।"</string>
+<string name="circular_sliding_screen">"ଡେସ୍କଟପ୍‍ ଚକ୍ର"</string>
+</resources>

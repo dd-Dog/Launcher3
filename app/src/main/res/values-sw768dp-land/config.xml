@@ -1,0 +1,7 @@
+<resources>
+    <integer name="config_workspaceOverviewShrinkPercentage">68</integer>
+	<!-- SPRD: Feature 314568,Add integer values for allapp cols count and rows count. @{ -->
+	<integer name="config_allapp_cols">6</integer>
+	<integer name="config_allapp_rows">5</integer>
+	<!-- @} -->
+</resources>

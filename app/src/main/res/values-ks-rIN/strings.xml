@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="home">"गर्रह"</string>
+<string name="uid_name">"एंड्राइड कोर एप्प्स"</string>
+<string name="wallpaper_instructions">"सेट कर्येव वॉलपेपर"</string>
+<plurals name="number_of_items_selected">
+<item quantity="zero">"%1$d चुन्मुत"</item>
+<item quantity="one">"%1$d चुन्मुत"</item>
+<item quantity="other">"%1$d चुन्मुत"</item>
+</plurals>
+<string name="wallpaper_accessibility_name">"वॉलपेपर %1$d आफ %2$d"</string>
+<string name="announce_selection">"चुन्मुत <xliff:g id="label" example="Wallpaper 3 of 10">%1$s</xliff:g>"</string>
+<string name="wallpaper_delete">"रद"</string>
+<string name="pick_image">"तुलिव शक्ल"</string>
+<string name="pick_wallpaper">"वॉलपेपर"</string>
+<string name="crop_wallpaper">"छाटिव वॉलपेपर"</string>
+<string name="activity_not_found">"एप्प छ न इनस्टॉल गमिच."</string>
+<string name="widgets_tab_label">"विडगेट"</string>
+<string name="widget_adder">"विडगेट"</string>
+<string name="toggle_weight_watcher">"हयिव मेमोरी"</string>
+<string name="long_press_widget_to_add">"ज़ीर करिव &amp;त रटिव विडगेट तुल्न्ह बापथ."</string>
+<string name="market">"विडियो काली मंज़ बदलायू"</string>
+<string name="widget_dims_format">"%1$d \u00d7 %2$d"</string>
+<string name="external_drop_widget_error">"हेकि न चीज़ त्रायिथ येथ होम स्क्रीन्स पेठ."</string>
+<string name="external_drop_widget_pick_title">"चुनिव विडगेट बनाव्न्ह खात्र"</string>
+<string name="rename_folder_label">"फोल्डर नाव"</string>
+<string name="rename_folder_title">"फ़ोल्डर्स बद्लायिव नाव"</string>
+<string name="rename_action">"ठीक"</string>
+<string name="cancel_action">"ख़ारिज"</string>
+<string name="menu_item_add_item">"हुर्रयिव होम स्क्रीनस कुन"</string>
+<string name="group_applications">"एप्प्स"</string>
+<string name="group_shortcuts">"सोटवथ"</string>
+<string name="group_widgets">"विडगेट"</string>
+<string name="completely_out_of_space">"तुहुन्दिस होम स्क्रीन्स पेठ छि न वनी बेय जाय.""</string>
+<string name="out_of_space">"होम स्क्रीन्स पेठ छ न बेय किंही जाय."</string>
+<string name="hotseat_out_of_space">"होटसीट मंज़ छिनी कांह जाय|"</string>
+<string name="invalid_hotseat_item">"होटसीट खातरी छी यी विजट ज़्यादी बोड|"</string>
+<string name="shortcut_installed">"शॉर्टकट \"<xliff:g id="name" example="Browser">%s</xliff:g>\" आव बनावनह."</string>
+<string name="shortcut_uninstalled">"लकिट पेठ \"<xliff:g id="name" example="Browser">%s</xliff:g>\"आव कडनः."</string>
+<string name="shortcut_duplicate">"लकिट पेठ \"<xliff:g id="name" example="Browser">%s</xliff:g>\"गोड्य मौजूद."</string>
+<string name="title_select_shortcut">"चुनिव छोट वथ"</string>
+<string name="title_select_application">"चुनिव एप्प"</string>
+<string name="all_apps_button_label">"एप्प्स"</string>
+<string name="all_apps_home_button_label">"गर्रह"</string>
+<string name="delete_zone_label_workspace">"नेबर कडीव"</string>
+<string name="delete_zone_label_all_apps">"अनइनस्टॉल"</string>
+<string name="delete_target_label">"नेबर कडीव"</string>
+<string name="delete_target_uninstall_label">"अनइनस्टॉल"</string>
+<string name="info_target_label">"एप्प ज़ानकारी"</string>
+<string name="accessibility_search_button">"छाडिव"</string>
+<string name="accessibility_voice_search_button">"आवाज़ छडिव"</string>
+<string name="accessibility_all_apps_button">"एप्प्स"</string>
+<string name="accessibility_delete_button">"नेबर कडीव"</string>
+<string name="delete_zone_label_all_apps_system_app">"अपडेट करिव इनइनस्टाल"</string>
+<string name="cab_menu_delete_app">"एप करिव अनइनस्टाल"</string>
+<string name="cab_menu_app_info">"एप्प तफ्सुर"</string>
+<string name="cab_app_selection_text">"1 एप्प आव चुन्न्ह"</string>
+<string name="cab_widget_selection_text">"1 विडगेट आव चुन्न्ह"</string>
+<string name="cab_folder_selection_text">"1 फोल्डर आव चुन्न्ह"</string>
+<string name="cab_shortcut_selection_text">"1 छोट वथ आय चुन्न्ह"</string>
+<string name="permlab_install_shortcut">"इनस्टॉल कर्येव शॉटकट्स"</string>
+<string name="permdesc_install_shortcut">"मंजूरी दिवन एप्पस शोर्टकट हुर्राव्न्स ग्र्याख सिंद दखल बगेर."</string>
+<string name="permlab_uninstall_shortcut">"अनइनस्टॉल कर्येव शॉटकट्स"</string>
+<string name="permdesc_uninstall_shortcut">"दिवान इजाज़त एप्प छोट वथ हटावनस मंज़ ग्र्याख सिंद दख्ल्ह बगेर."</string>
+<string name="permlab_read_settings">"पडिव होम सेटिंग बेय शोर्टकट"</string>
+<string name="permdesc_read_settings">"मंजूरी दियिव एप्प्स पड़नस सेटिंग बेय शोर्टकट होमअस मंज़."</string>
+<string name="permlab_write_settings">"लीखिव होम सेटिंग बेय शोर्टकट"</string>
+<string name="permdesc_write_settings">"मंज़ूरी दियिव एप्प्स बदलावनस सेटिंग बेय शोर्टकट होमअस मंज़."</string>
+<string name="gadget_error_text">"मुश्किलात लोड कर्विन विडगेट"</string>
+<string name="uninstall_system_app_text">"यि छि सिस्टम एप्प त हेकि न अनइनस्टॉल गसिथ."</string>
+<string name="dream_name">"राकेट लांचर"</string>
+<string name="folder_hint_text">"नाव बगेर फोल्डर"</string>
+<string name="workspace_description_format">"होम स्क्रीन %1$d"</string>
+<string name="default_scroll_format">"वरुख %1$d ऑफ़ %2$d"</string>
+<string name="workspace_scroll_format">"होम स्क्रीन %1$d ऑफ़ %2$d"</string>
+<string name="apps_customize_apps_scroll_format">"एप्प्स पेज %1$d अमुक %2$d"</string>
+<string name="apps_customize_widgets_scroll_format">"विडगेट पेज %1$d अमुक %2$d"</string>
+<string name="first_run_cling_title">"खुशाहामदीद!"</string>
+<string name="first_run_cling_description">"बनायिव पानय घर्री"</string>
+<string name="first_run_cling_create_screens_hint">"बनायिव बेयि स्क्रीन एप्प्स त फोल्डर खात्र"</string>
+<string name="workspace_cling_title">"सम्भालिव पनिन जाय"</string>
+<string name="workspace_cling_move_item">"ज़ीर करिव त रटिव बैकग्राउंड वॉलपेपर ,विडगेट त सेटिंग पक्नावनः बापथ."</string>
+<string name="all_apps_cling_title">"चुनीव केंह स्पस"</string>
+<string name="all_apps_cling_add_item">"पननीस होम सकरीनस मंज़ काह रलावनी करयू टच ती होलड़|"</string>
+<string name="folder_cling_title">"यिके छु फोल्डर"</string>
+<string name="folder_cling_create_folder">"यिथुई अख बनावनह बापथ,करिव ज़ीर त रटिव एप्प,पत् पक्नायिव बेय अकि पेठ."</string>
+<string name="cling_dismiss">"ठीक"</string>
+<string name="folder_opened">"फोल्डर आव खोल्नः, <xliff:g id="width" example="5">%1$d</xliff:g> अमिसीत <xliff:g id="height" example="3">%2$d</xliff:g>"</string>
+<string name="folder_tap_to_close">"करिव ज़ीर फोल्डर बंद करनः खात्र"</string>
+<string name="folder_tap_to_rename">"करिव ज़ीर नाव बदलाव बचाव्न्ह खात्र"</string>
+<string name="folder_closed">"फोल्डर आव बंद करन्ह"</string>
+<string name="folder_renamed">"फोल्डरस आव नाव बदलावनह  <xliff:g id="name" example="Games">%1$s</xliff:g>"</string>
+<string name="folder_name_format">"फोल्डर: <xliff:g id="name" example="Games">%1$s</xliff:g>"</string>
+<string name="widget_button_text">"विडगेट"</string>
+<string name="wallpaper_button_text">"वॉलपेपर"</string>
+<string name="settings_button_text">"सेटिंग्स"</string>
+<string name="prompt_gallery_disable">"गौलरी हिन्ज़ काम छिनी वीन शुरू गिनच़!"</string>
+<string name="prompt_folder_full">"यी फोलडर छी बरीध|"</string>
+<string name="circular_sliding_screen">"डेस्कटॉप साइकिल"</string>
+</resources>
